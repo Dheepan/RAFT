@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="14" name="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" tests="19" time="12.519">
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t001_Free_Gifts_Popup" time="0.278"/>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t002_Free_Gifts_Popup_Title" time="0.316"/>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t003_Free_Gifts_Popup_Free_Gifts" time="0.370"/>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t004_Free_Gifts_Popup_Paid_Gifts" time="0.309"/>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t005_Free_Gifts_Popup_Close" time="0.349"/>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t006_Free_Gifts_Popup_Free_Gift_Box_Time_Send_Gift_Click" time="0.937">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 103, in test_t006_Free_Gifts_Popup_Free_Gift_Box_Time_Send_Gift_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t007_Free_Gifts_Popup_Free_Gift_Box_Gold_Send_Gift_Click" time="0.776">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 115, in test_t007_Free_Gifts_Popup_Free_Gift_Box_Gold_Send_Gift_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t008_Free_Gifts_Popup_Free_Gift_Box_Undo_Send_Gift_Click" time="0.785">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 127, in test_t008_Free_Gifts_Popup_Free_Gift_Box_Undo_Send_Gift_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t009_Free_Gifts_Popup_Free_Gift_Box_Surprise_Send_Gift_Click" time="0.732">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 139, in test_t009_Free_Gifts_Popup_Free_Gift_Box_Surprise_Send_Gift_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t010_Free_Gifts_Popup_Free_Gift_Box_MysteryTime_Send_Gift_Click" time="0.766">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 151, in test_t010_Free_Gifts_Popup_Free_Gift_Box_MysteryTime_Send_Gift_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t011_Free_Gifts_Popup_Free_Gift_Box_Time_Ask_Friends_Click" time="0.762">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 163, in test_t011_Free_Gifts_Popup_Free_Gift_Box_Time_Ask_Friends_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t012_Free_Gifts_Popup_Free_Gift_Box_Gold_Ask_Friends_Click" time="0.729">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 175, in test_t012_Free_Gifts_Popup_Free_Gift_Box_Gold_Ask_Friends_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t013_Free_Gifts_Popup_Free_Gift_Box_Undo_Ask_Friends_Click" time="0.789">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 187, in test_t013_Free_Gifts_Popup_Free_Gift_Box_Undo_Ask_Friends_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t014_Free_Gifts_Popup_Free_Gift_Box_Surprise_Ask_Friends_Click" time="0.744">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 199, in test_t014_Free_Gifts_Popup_Free_Gift_Box_Surprise_Ask_Friends_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t015_Free_Gifts_Popup_Free_Gift_Box_MysteryTime_Ask_Friends_Click" time="0.751">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 211, in test_t015_Free_Gifts_Popup_Free_Gift_Box_MysteryTime_Ask_Friends_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t016_Free_Gifts_Popup_Free_Gift_Box_Hint_Send_Gift_Click" time="0.808">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 223, in test_t016_Free_Gifts_Popup_Free_Gift_Box_Hint_Send_Gift_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t017_Free_Gifts_Popup_Free_Gift_Box_Pause_Send_Gift_Click" time="0.781">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 235, in test_t017_Free_Gifts_Popup_Free_Gift_Box_Pause_Send_Gift_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t018_Free_Gifts_Popup_Free_Gift_Box_Magic_Eye_Send_Gift_Click" time="0.801">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 247, in test_t018_Free_Gifts_Popup_Free_Gift_Box_Magic_Eye_Send_Gift_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Free_Gifts_Popup.Fc_Free_Gifts_Popup" name="test_t019_Free_Gifts_Popup_Free_Gift_Box_Auto_Pencil_Send_Gift_Click" time="0.735">
+		<failure message="False is not true" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Free_Gifts_Popup.py", line 259, in test_t019_Free_Gifts_Popup_Free_Gift_Box_Auto_Pencil_Send_Gift_Click
+    self.assertTrue(state)
+AssertionError: False is not true
+]]>		</failure>
+	</testcase>
+	<system-out>
+<![CDATA[driver=<selenium.webdriver.firefox.webdriver.WebDriver object at 0xb6df050c>
+Running Fc_Add_Gold_Popup tests..
+Running Fc_Free_Gifts_Popup tests..
+Running Fc_Send_Free_Gifts_And_Ask_Friends_Popup tests..
+Running Fc_Send_Paid_Gifts_Popup tests..
+Running Fc_Invite_friends_popup tests..
+Running Fc_Notifcations_Messages tests..
+Running Fc_Notification_Accept_And_Send tests..
+Running Fc_Store_Popup tests..
+Running Fc_Inventory_Popup tests..
+Running Fc_Purchase_Extra_Time_Popup tests..
+Running Fc_Puzzle tests..
+Running Fc_Map tests..
+Running Fc_Companion_Bar tests..
+Running Fc_My_Companion_Tab tests..
+Running Fc_Friends_Playing_Sudoku_Panel tests..
+Running Fc_Pending_Requests_Panel tests..
+Running Fc_My_Companions_Panel tests..
+Running Fc_Master_Score tests..
+Running Fc_Outer_Icons tests..
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

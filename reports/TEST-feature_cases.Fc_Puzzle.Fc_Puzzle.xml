@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="11" failures="0" name="feature_cases.Fc_Puzzle.Fc_Puzzle" tests="11" time="6.011">
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t001_Puzzle_Loads" time="0.555">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 19, in test_t001_Puzzle_Loads
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t002_Puzzle_Scores_And_Highscores" time="0.514">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 31, in test_t002_Puzzle_Scores_And_Highscores
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t003_Puzzle_Timer" time="0.536">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 43, in test_t003_Puzzle_Timer
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t004_Puzzle_Puzzle_Completion_Bar" time="0.543">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 55, in test_t004_Puzzle_Puzzle_Completion_Bar
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t005_Puzzle_Number_Bar" time="0.538">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 67, in test_t005_Puzzle_Number_Bar
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t006_Puzzle_Music_Buttons" time="0.537">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 79, in test_t006_Puzzle_Music_Buttons
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t007_Puzzle_Report_A_Bug" time="0.546">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 91, in test_t007_Puzzle_Report_A_Bug
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t008_Puzzle_Play_Keyboard_Navigation" time="0.549">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 103, in test_t008_Puzzle_Play_Keyboard_Navigation
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t009_Puzzle_Play_Unrange_Values" time="0.542">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 115, in test_t009_Puzzle_Play_Unrange_Values
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t010_Puzzle_Back_To_Map" time="0.570">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 127, in test_t010_Puzzle_Back_To_Map
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Puzzle.Fc_Puzzle" name="test_t011_Puzzle_Play_Count_Unfilled_Cells" time="0.581">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Puzzle.py", line 139, in test_t011_Puzzle_Play_Count_Unfilled_Cells
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[driver=<selenium.webdriver.firefox.webdriver.WebDriver object at 0xb6df050c>
+Running Fc_Add_Gold_Popup tests..
+Running Fc_Free_Gifts_Popup tests..
+Running Fc_Send_Free_Gifts_And_Ask_Friends_Popup tests..
+Running Fc_Send_Paid_Gifts_Popup tests..
+Running Fc_Invite_friends_popup tests..
+Running Fc_Notifcations_Messages tests..
+Running Fc_Notification_Accept_And_Send tests..
+Running Fc_Store_Popup tests..
+Running Fc_Inventory_Popup tests..
+Running Fc_Purchase_Extra_Time_Popup tests..
+Running Fc_Puzzle tests..
+Running Fc_Map tests..
+Running Fc_Companion_Bar tests..
+Running Fc_My_Companion_Tab tests..
+Running Fc_Friends_Playing_Sudoku_Panel tests..
+Running Fc_Pending_Requests_Panel tests..
+Running Fc_My_Companions_Panel tests..
+Running Fc_Master_Score tests..
+Running Fc_Outer_Icons tests..
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

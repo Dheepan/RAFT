@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="10" failures="0" name="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" tests="10" time="5.387">
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t001_Inventory_Popup" time="0.552">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 19, in test_t001_Inventory_Popup
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t002_Inventory_Popup_Close" time="0.535">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 31, in test_t002_Inventory_Popup_Close
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t003_Inventory_Popup_Title" time="0.529">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 43, in test_t003_Inventory_Popup_Title
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t004_Inventory_Popup_Free_Gifts_Box" time="0.531">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 55, in test_t004_Inventory_Popup_Free_Gifts_Box
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t005_Inventory_Popup_Paid_Gift_Box" time="0.530">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 67, in test_t005_Inventory_Popup_Paid_Gift_Box
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t006_Inventory_Popup_Time_Ask_Friends_Button" time="0.521">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 79, in test_t006_Inventory_Popup_Time_Ask_Friends_Button
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t007_Inventory_Popup_Gold_Ask_Friends_Button" time="0.565">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 91, in test_t007_Inventory_Popup_Gold_Ask_Friends_Button
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t008_Inventory_Popup_Undo_Ask_Friends_Button" time="0.542">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 103, in test_t008_Inventory_Popup_Undo_Ask_Friends_Button
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t009_Inventory_Popup_Surprise_Ask_Friends_Button" time="0.552">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 115, in test_t009_Inventory_Popup_Surprise_Ask_Friends_Button
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Inventory_Popup.Fc_Inventory_Popup" name="test_t010_Inventory_Popup_Mystery_Time_Ask_Friends_Button" time="0.531">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Inventory_Popup.py", line 127, in test_t010_Inventory_Popup_Mystery_Time_Ask_Friends_Button
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[driver=<selenium.webdriver.firefox.webdriver.WebDriver object at 0xb6df050c>
+Running Fc_Add_Gold_Popup tests..
+Running Fc_Free_Gifts_Popup tests..
+Running Fc_Send_Free_Gifts_And_Ask_Friends_Popup tests..
+Running Fc_Send_Paid_Gifts_Popup tests..
+Running Fc_Invite_friends_popup tests..
+Running Fc_Notifcations_Messages tests..
+Running Fc_Notification_Accept_And_Send tests..
+Running Fc_Store_Popup tests..
+Running Fc_Inventory_Popup tests..
+Running Fc_Purchase_Extra_Time_Popup tests..
+Running Fc_Puzzle tests..
+Running Fc_Map tests..
+Running Fc_Companion_Bar tests..
+Running Fc_My_Companion_Tab tests..
+Running Fc_Friends_Playing_Sudoku_Panel tests..
+Running Fc_Pending_Requests_Panel tests..
+Running Fc_My_Companions_Panel tests..
+Running Fc_Master_Score tests..
+Running Fc_Outer_Icons tests..
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

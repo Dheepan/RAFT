@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="1" failures="0" name="feature_cases.Fc_Purchase_Extra_Time_Popup.Fc_Purchase_Extra_Time_Popup" tests="1" time="0.548">
+	<testcase classname="feature_cases.Fc_Purchase_Extra_Time_Popup.Fc_Purchase_Extra_Time_Popup" name="test_t001_Purchase_Extra_Time_Popup" time="0.548">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Purchase_Extra_Time_Popup.py", line 19, in test_t001_Purchase_Extra_Time_Popup
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[driver=<selenium.webdriver.firefox.webdriver.WebDriver object at 0xb6df050c>
+Running Fc_Add_Gold_Popup tests..
+Running Fc_Free_Gifts_Popup tests..
+Running Fc_Send_Free_Gifts_And_Ask_Friends_Popup tests..
+Running Fc_Send_Paid_Gifts_Popup tests..
+Running Fc_Invite_friends_popup tests..
+Running Fc_Notifcations_Messages tests..
+Running Fc_Notification_Accept_And_Send tests..
+Running Fc_Store_Popup tests..
+Running Fc_Inventory_Popup tests..
+Running Fc_Purchase_Extra_Time_Popup tests..
+Running Fc_Puzzle tests..
+Running Fc_Map tests..
+Running Fc_Companion_Bar tests..
+Running Fc_My_Companion_Tab tests..
+Running Fc_Friends_Playing_Sudoku_Panel tests..
+Running Fc_Pending_Requests_Panel tests..
+Running Fc_My_Companions_Panel tests..
+Running Fc_Master_Score tests..
+Running Fc_Outer_Icons tests..
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

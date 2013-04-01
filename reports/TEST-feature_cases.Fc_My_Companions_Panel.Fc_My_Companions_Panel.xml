@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="2" failures="0" name="feature_cases.Fc_My_Companions_Panel.Fc_My_Companions_Panel" tests="2" time="1.086">
+	<testcase classname="feature_cases.Fc_My_Companions_Panel.Fc_My_Companions_Panel" name="test_t001_My_Companions_Panel" time="0.545">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_My_Companions_Panel.py", line 19, in test_t001_My_Companions_Panel
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_My_Companions_Panel.Fc_My_Companions_Panel" name="test_t002_My_Companions_Panel_User" time="0.541">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_My_Companions_Panel.py", line 31, in test_t002_My_Companions_Panel_User
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[driver=<selenium.webdriver.firefox.webdriver.WebDriver object at 0xb6df050c>
+Running Fc_Add_Gold_Popup tests..
+Running Fc_Free_Gifts_Popup tests..
+Running Fc_Send_Free_Gifts_And_Ask_Friends_Popup tests..
+Running Fc_Send_Paid_Gifts_Popup tests..
+Running Fc_Invite_friends_popup tests..
+Running Fc_Notifcations_Messages tests..
+Running Fc_Notification_Accept_And_Send tests..
+Running Fc_Store_Popup tests..
+Running Fc_Inventory_Popup tests..
+Running Fc_Purchase_Extra_Time_Popup tests..
+Running Fc_Puzzle tests..
+Running Fc_Map tests..
+Running Fc_Companion_Bar tests..
+Running Fc_My_Companion_Tab tests..
+Running Fc_Friends_Playing_Sudoku_Panel tests..
+Running Fc_Pending_Requests_Panel tests..
+Running Fc_My_Companions_Panel tests..
+Running Fc_Master_Score tests..
+Running Fc_Outer_Icons tests..
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

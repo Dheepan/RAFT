@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="8" failures="0" name="feature_cases.Fc_Notification_Accept_And_Send.Fc_Notification_Accept_And_Send" tests="8" time="4.352">
+	<testcase classname="feature_cases.Fc_Notification_Accept_And_Send.Fc_Notification_Accept_And_Send" name="test_t001_Notifications_Popup" time="0.530">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Notification_Accept_And_Send.py", line 19, in test_t001_Notifications_Popup
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Notification_Accept_And_Send.Fc_Notification_Accept_And_Send" name="test_t002_Notifications_Popup_Close" time="0.524">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Notification_Accept_And_Send.py", line 31, in test_t002_Notifications_Popup_Close
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Notification_Accept_And_Send.Fc_Notification_Accept_And_Send" name="test_t003_Notifications_Popup_Title" time="0.533">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Notification_Accept_And_Send.py", line 43, in test_t003_Notifications_Popup_Title
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Notification_Accept_And_Send.Fc_Notification_Accept_And_Send" name="test_t004_Notifications_Popup_Item_Gift_Text" time="0.536">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Notification_Accept_And_Send.py", line 55, in test_t004_Notifications_Popup_Item_Gift_Text
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Notification_Accept_And_Send.Fc_Notification_Accept_And_Send" name="test_t005_Notifications_Popup_Item" time="0.552">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Notification_Accept_And_Send.py", line 67, in test_t005_Notifications_Popup_Item
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Notification_Accept_And_Send.Fc_Notification_Accept_And_Send" name="test_t006_Notifications_Popup_Item" time="0.554">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Notification_Accept_And_Send.py", line 79, in test_t006_Notifications_Popup_Item
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Notification_Accept_And_Send.Fc_Notification_Accept_And_Send" name="test_t007_Notifications_Popup_Item" time="0.573">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Notification_Accept_And_Send.py", line 91, in test_t007_Notifications_Popup_Item
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Notification_Accept_And_Send.Fc_Notification_Accept_And_Send" name="test_t008_Notifications_Popup_Item" time="0.551">
+		<error message="string index out of range" type="IndexError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Notification_Accept_And_Send.py", line 103, in test_t008_Notifications_Popup_Item
+    h.click("")
+  File "/home/dheepan/Automation/Singleton.py", line 57, in click
+    c=s[0]
+IndexError: string index out of range
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[driver=<selenium.webdriver.firefox.webdriver.WebDriver object at 0xb6df050c>
+Running Fc_Add_Gold_Popup tests..
+Running Fc_Free_Gifts_Popup tests..
+Running Fc_Send_Free_Gifts_And_Ask_Friends_Popup tests..
+Running Fc_Send_Paid_Gifts_Popup tests..
+Running Fc_Invite_friends_popup tests..
+Running Fc_Notifcations_Messages tests..
+Running Fc_Notification_Accept_And_Send tests..
+Running Fc_Store_Popup tests..
+Running Fc_Inventory_Popup tests..
+Running Fc_Purchase_Extra_Time_Popup tests..
+Running Fc_Puzzle tests..
+Running Fc_Map tests..
+Running Fc_Companion_Bar tests..
+Running Fc_My_Companion_Tab tests..
+Running Fc_Friends_Playing_Sudoku_Panel tests..
+Running Fc_Pending_Requests_Panel tests..
+Running Fc_My_Companions_Panel tests..
+Running Fc_Master_Score tests..
+Running Fc_Outer_Icons tests..
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

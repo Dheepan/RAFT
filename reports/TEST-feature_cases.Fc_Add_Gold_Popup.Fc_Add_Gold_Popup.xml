@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="feature_cases.Fc_Add_Gold_Popup.Fc_Add_Gold_Popup" tests="6" time="2.001">
+	<testcase classname="feature_cases.Fc_Add_Gold_Popup.Fc_Add_Gold_Popup" name="test_t001_Add_Gold_Popup" time="0.378"/>
+	<testcase classname="feature_cases.Fc_Add_Gold_Popup.Fc_Add_Gold_Popup" name="test_t002_Add_Gold_Popup_Close_Button" time="0.543"/>
+	<testcase classname="feature_cases.Fc_Add_Gold_Popup.Fc_Add_Gold_Popup" name="test_t003_Add_Gold_Popup_Title" time="0.244"/>
+	<testcase classname="feature_cases.Fc_Add_Gold_Popup.Fc_Add_Gold_Popup" name="test_t004_Add_Gold_Popup_Select_Credits" time="0.482"/>
+	<testcase classname="feature_cases.Fc_Add_Gold_Popup.Fc_Add_Gold_Popup" name="test_t005_Add_Gold_Popup_Add_Button" time="0.173"/>
+	<testcase classname="feature_cases.Fc_Add_Gold_Popup.Fc_Add_Gold_Popup" name="test_t006_Add_Gold_Popup_Earn_Button" time="0.181"/>
+	<system-out>
+<![CDATA[driver=<selenium.webdriver.firefox.webdriver.WebDriver object at 0xb6df050c>
+Running Fc_Add_Gold_Popup tests..
+Running Fc_Free_Gifts_Popup tests..
+Running Fc_Send_Free_Gifts_And_Ask_Friends_Popup tests..
+Running Fc_Send_Paid_Gifts_Popup tests..
+Running Fc_Invite_friends_popup tests..
+Running Fc_Notifcations_Messages tests..
+Running Fc_Notification_Accept_And_Send tests..
+Running Fc_Store_Popup tests..
+Running Fc_Inventory_Popup tests..
+Running Fc_Purchase_Extra_Time_Popup tests..
+Running Fc_Puzzle tests..
+Running Fc_Map tests..
+Running Fc_Companion_Bar tests..
+Running Fc_My_Companion_Tab tests..
+Running Fc_Friends_Playing_Sudoku_Panel tests..
+Running Fc_Pending_Requests_Panel tests..
+Running Fc_My_Companions_Panel tests..
+Running Fc_Master_Score tests..
+Running Fc_Outer_Icons tests..
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

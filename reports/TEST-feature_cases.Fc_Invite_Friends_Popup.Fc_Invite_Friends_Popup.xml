@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="1" failures="1" name="feature_cases.Fc_Invite_Friends_Popup.Fc_Invite_Friends_Popup" tests="3" time="7.020">
+	<testcase classname="feature_cases.Fc_Invite_Friends_Popup.Fc_Invite_Friends_Popup" name="test_t001_Invite_Friends_Popup" time="4.733"/>
+	<testcase classname="feature_cases.Fc_Invite_Friends_Popup.Fc_Invite_Friends_Popup" name="test_t003_Invite_Friends_Popup_Close" time="1.257">
+		<failure message="True is not false" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Invite_Friends_Popup.py", line 45, in test_t003_Invite_Friends_Popup_Close
+    self.assertFalse(state)
+AssertionError: True is not false
+]]>		</failure>
+	</testcase>
+	<testcase classname="feature_cases.Fc_Invite_Friends_Popup.Fc_Invite_Friends_Popup" name="test_t004_Invite_Friends_Popup_UncleTom" time="1.030">
+		<error message="Message: u'Element is not currently visible and so may not be interacted with' " type="ElementNotVisibleException">
+<![CDATA[Traceback (most recent call last):
+  File "/home/dheepan/Automation/feature_cases/Fc_Invite_Friends_Popup.py", line 61, in test_t004_Invite_Friends_Popup_UncleTom
+    h.click(".ui-dialog-titlebar-close")
+  File "/home/dheepan/Automation/Singleton.py", line 63, in click
+    ele=driver.find_element_by_class_name(s[1:]).click()
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/webelement.py", line 51, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/webelement.py", line 204, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/webdriver.py", line 153, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/errorhandler.py", line 147, in check_response
+    raise exception_class(message, screen, stacktrace)
+ElementNotVisibleException: Message: u'Element is not currently visible and so may not be interacted with' 
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[driver=<selenium.webdriver.firefox.webdriver.WebDriver object at 0xb6df050c>
+Running Fc_Add_Gold_Popup tests..
+Running Fc_Free_Gifts_Popup tests..
+Running Fc_Send_Free_Gifts_And_Ask_Friends_Popup tests..
+Running Fc_Send_Paid_Gifts_Popup tests..
+Running Fc_Invite_friends_popup tests..
+Running Fc_Notifcations_Messages tests..
+Running Fc_Notification_Accept_And_Send tests..
+Running Fc_Store_Popup tests..
+Running Fc_Inventory_Popup tests..
+Running Fc_Purchase_Extra_Time_Popup tests..
+Running Fc_Puzzle tests..
+Running Fc_Map tests..
+Running Fc_Companion_Bar tests..
+Running Fc_My_Companion_Tab tests..
+Running Fc_Friends_Playing_Sudoku_Panel tests..
+Running Fc_Pending_Requests_Panel tests..
+Running Fc_My_Companions_Panel tests..
+Running Fc_Master_Score tests..
+Running Fc_Outer_Icons tests..
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
